@@ -2,12 +2,7 @@
 
 A universal concept dictionary (UCD) is a general-purpose interpretable embedding model that converts natural language inputs into high-dimensional sparse vectors, where each dimension corresponds to a labeled natural language concept.
 
-UCDs serve as foundation models for text-as-data applications: efficiently converting unstructured text data into structured data that maintains a natural language interface.
-
-For example, you can use a UCD to:
-- Identify interpretable clusters in your data
-- Identify interpretable concepts that predict a target variable (hypothesis generation).
-- Create an interpretable index to enable concept-based RAG.
+UCDs enable efficient statistical computation while maintaining interpretability.
 
 Our model is `gemini-ucd-80k`, a UCD that builds on top of gemini-embedding-2. The model is available at https://huggingface.co/klpeng/gemini-ucd-80k.
 
