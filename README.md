@@ -1,4 +1,4 @@
-# Universal Concept Dictionary
+# Universal Concept Dictionaries
 
 A universal concept dictionary (UCD) is a general-purpose interpretable embedding model that converts natural language inputs into high-dimensional sparse vectors, where each dimension corresponds to a labeled natural language concept.
 
